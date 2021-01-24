@@ -1,0 +1,8 @@
+#root{padding:50px 0px;}
+
+.td-wrapper{margin:25px;}
+.td{display:flex;}
+
+/* svg in buttons css */
+.ic{height:30px;width:35px;}
+.ic svg{height:100%;width:100%;}
